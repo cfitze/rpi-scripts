@@ -13,6 +13,7 @@ kombu==5.3.7
 netifaces==0.11.0
 prompt_toolkit==3.0.47
 pymodbus==3.6.9
+psyserial==3.5
 python-dateutil==2.9.0.post0
 redis==5.0.7
 requests==2.32.3
